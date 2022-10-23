@@ -1,0 +1,32 @@
+{
+	"storyName": "",
+	"difficulties": "D-Sides",
+	"hideFreeplay": false,
+	"weekBackground": "oswald69",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Vesper",
+			"dejection",
+			[
+				83,
+				86,
+				80
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "oswald"
+}
